@@ -61,4 +61,4 @@ These logs track start, stop, and error messages for debugging.
 
 ---
 
-** Made by execRooted **
+**Made by execRooted**
