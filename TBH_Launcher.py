@@ -57,7 +57,7 @@ def logo():
   |_________|
 {RESET}""")
 
-def help()
+
 
     
 
@@ -67,8 +67,7 @@ def main_menu():
         clear()
         typewriter("=== Taskbar Hider Manager ===")
         typewriter("1. Launch taskbar hiding")
-        typewriter("2. Help")
-        typewriter("3. Exit")
+        typewriter("2. Exit")
         choice = input("Select an option: ").strip()
 
         clear()
@@ -78,8 +77,7 @@ def main_menu():
         elif choice == "2":
             typewriter("Exiting...")
             break
-        elif choice == 2
-            help()
+       
         else:
             typewriter("[-] Choice not available. Choose 1 or 2.")
 
