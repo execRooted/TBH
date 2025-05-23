@@ -51,7 +51,7 @@ If you want the taskbar hider to launch automatically on startup:
 https://www.youtube.com/watch?v=T9A8TelGsdo&ab_channel=Jean-ChristopheChouinard
 (credits to Jean-Christophe Chouinard for the video)
 
-### Or, much simpler option, just open the task manager, go to startup, then click on a program and open a file location(preferably on a .exe), then just move the taskbar_worker.pyw there, restart and done! :D
+- Or, much simpler option, just open the task manager, go to startup, then click on a program and open a file location(preferably on a .exe), then just move the taskbar_worker.pyw there, restart and done! :D
 
 Logging:
 --------
